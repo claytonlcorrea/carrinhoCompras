@@ -1,1 +1,1 @@
-Você pode ver esse projeto funcionando aqui: carrinho-compras-nu-six.vercel.app
+Você pode ver esse projeto funcionando aqui: https://carrinho-compras-nu-six.vercel.app/
